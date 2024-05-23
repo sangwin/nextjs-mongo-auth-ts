@@ -1,0 +1,1 @@
+# nextjs-mongo-auth-ts
